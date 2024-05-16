@@ -123,6 +123,7 @@ General Remarks
 * Results should be stored in the `./results` directory and small of size. e.g. summary tables as CSV files, PNG/SVG version of charts, ...
 * Consider creating a snapshot which a small percentage (1-10%) before creating a full population snapshot. This will speed up your wrangling development.
 * When generating another snapshot consider using a different branch for it. Thus, you can still work on the old snapshot easily while waiting for the snapshot to finish.
+* Copy mde for testing purposes - Ralph Durkee
 
 License
 -------
